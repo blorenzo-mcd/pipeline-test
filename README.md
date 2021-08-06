@@ -3,7 +3,7 @@
 Create a public repository outside of restaurant-technology-org and commit at least one file, like this readme for example. 
 
 Try to access this url:
-https://api.github.com/users/blorenzo-mcd/events/public. 
+https://api.github.com/users/[your github user name]/events/public. 
 
 Check if at least one object inside the json has this path:
 
