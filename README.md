@@ -8,3 +8,5 @@ https://api.github.com/users/blorenzo-mcd/events/public.
 Check if at least one object inside the json has this path:
 
 ### payload > commits > author > email
+
+If not works, try a second commit. Like the one I'm doing right now.
